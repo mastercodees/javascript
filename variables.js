@@ -1,15 +1,13 @@
-
-
 // console.log(person.address.city);
 
 //  console.log(Object.keys(person));
 //  console.log(Object.values(person));
 //  console.log(JSON.stringify(person));
- 
+
 //  var isAdult = false;
 
 //  if(!isAdult){
-   
+
 //     console.log("you are a child");
 //  }
 //  else{
@@ -56,8 +54,6 @@
 //     return `hello ${userName}`
 // });
 
-
-
 // address={
 //     city: "London",
 //     postCode:"SW9"
@@ -91,9 +87,9 @@
 // console.log(casio.getDiscount())
 
 // const person = {
-//     firstName: "Jamila",    
+//     firstName: "Jamila",
 //     cars: ["Tesla","Ferrari"],
-    
+
 //     toString: function(){
 //         console.log(`Name: ${this.firstName}`)
 //         // const that = this;
@@ -101,7 +97,7 @@
 //             console.log(`Name: ${this.firstName} Drives ${car}`)
 //         })
 //     }
-    
+
 // };
 
 // person.toString();
@@ -109,7 +105,6 @@
 // const numberMultipliedByTwo = numbers.map(number => number*2);
 // console.log(numberMultipliedByTwo);
 // const numbers = [1,2,3,4,5];
-
 
 // const result = numbers.reduce((accumulator,current) =>{
 //      return  accumulator - current
@@ -144,3 +139,5 @@
 // person2.set({age: 'foo'},2)
 
 //  console.log(person2)
+let javascriptIsFun = true;
+console.log(typeof javascriptIsFun);

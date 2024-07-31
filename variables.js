@@ -40,7 +40,7 @@
 
 // var number = 6;
 
-// var result = number % 2 == 0 ? 'Even' : 'Odd';
+// var result = number % 2 == 0 ? "Even" : "Odd";
 
 // console.log(result);
 // console.log("0" * 1);
@@ -139,5 +139,31 @@
 // person2.set({age: 'foo'},2)
 
 //  console.log(person2)
-let javascriptIsFun = true;
-console.log(typeof javascriptIsFun);
+// let javascriptIsFun = true;
+
+// console.log(typeof javascriptIsFun);
+
+// const ageJonas = 2037 - 1991;
+// const ageSarah = 2037 - 2018;
+
+// console.log(ageJonas);
+// console.log(ageSarah);
+// console.log(2 ** 3);
+
+// let x = 15;
+// let y = ++x;
+// let z = y++;
+
+// console.log(x);
+// console.log(y);
+// console.log(z); //x=16, y= 17 ,z=16
+
+// console.log(ageJonas >= ageSarah);
+
+let country = "kenya";
+let continent = "africa";
+let population = 54000000;
+
+console.log(country);
+console.log(continent);
+console.log(population);
